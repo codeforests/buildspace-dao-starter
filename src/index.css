@@ -23,12 +23,13 @@ h1 {
 }
 
 .unsupported-network {
-  width: 340px;
+  width: 540px;
   max-width: 100%;
   padding-left: 0.5rem;
   padding-right: 0.5rem;
   margin: auto;
   padding: 1rem;
+  text-align: center;
 }
 
 .error {

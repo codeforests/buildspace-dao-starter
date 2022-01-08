@@ -166,7 +166,7 @@ const App = () => {
   if(!address) {
     return (
       <div className="landing">
-        <h1>Welcome to Codeforest DAO</h1>
+        <h1>Welcome to Codeforests DAO</h1>
         <button onClick={() => connectWallet("injected")} className="htn-hero">
           Connect your wallet
         </button>
